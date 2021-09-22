@@ -3,7 +3,7 @@
 
 function getValue(){
 
-    //make sure that alertis invisible
+    //make sure that alert is invisible
     document.getElementById("alert").classList.add("invisible");
 
     //get user string from page
